@@ -18,8 +18,8 @@ def send_email(url : str):
     message = client.messages \
                     .create(
                         body="Yay! GPU on your shortlist is available\n" + url,
-                        from_='+15407248561',
-                        to='+19208830984'
+                        from_=twlo_phone,
+                        to=my_phone
                     )
     return
 
