@@ -1,0 +1,1 @@
+{"id":"a21ac117-5e54-4fe6-bae8-fe0311460963","space":11403,"runtime":"python3.9","name":"microcenter_bot","path":"i654pk","project":"b0a06402","account":"144798365827","region":"us-east-1","deps":["requests","beautifulsoup4","twilio"],"envs":null,"public":true,"log_level":"debug","cron":"1 hour"}
